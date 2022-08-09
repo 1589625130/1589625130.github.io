@@ -6,7 +6,7 @@
   <link href="https://dingjc.online/atom.xml" rel="self"/>
   
   <link href="https://dingjc.online/"/>
-  <updated>2022-08-09T01:05:15.604Z</updated>
+  <updated>2022-08-09T08:22:23.478Z</updated>
   <id>https://dingjc.online/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>typescript学习笔记</title>
+    <link href="https://dingjc.online/2022/08/09/typescript/"/>
+    <id>https://dingjc.online/2022/08/09/typescript/</id>
+    <published>2022-08-09T08:00:17.000Z</published>
+    <updated>2022-08-09T08:22:23.478Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;typescript学习笔记&quot;&gt;&lt;a href=&quot;#typescript学习笔记&quot; class=&quot;headerlink&quot; title=&quot;typescript学习笔记&quot;&gt;&lt;/a&gt;typescript学习笔记&lt;/h2&gt;&lt;h3 id=&quot;1-基础知识&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
